@@ -1,0 +1,13 @@
+﻿  grabFrame.cpp
+c:\users\isaac\documents\visual studio 2015\projects\buildingsapera\buildingsapera\fps.h(22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\isaac\documents\visual studio 2015\projects\buildingsapera\buildingsapera\grabframe.cpp(48): warning C4101: 'height': unreferenced local variable
+c:\users\isaac\documents\visual studio 2015\projects\buildingsapera\buildingsapera\grabframe.cpp(48): warning C4101: 'width': unreferenced local variable
+c:\users\isaac\documents\visual studio 2015\projects\buildingsapera\buildingsapera\grabframe.cpp(88): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  c:\users\isaac\documents\visual studio 2015\projects\buildingsapera\buildingsapera\grabframe.cpp(88): note: consider using '%zd' in the format string
+c:\users\isaac\documents\visual studio 2015\projects\buildingsapera\buildingsapera\grabframe.cpp(276): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\isaac\documents\visual studio 2015\projects\buildingsapera\buildingsapera\grabframe.cpp(370): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\isaac\documents\visual studio 2015\projects\buildingsapera\buildingsapera\grabframe.cpp(383): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\isaac\documents\visual studio 2015\projects\buildingsapera\buildingsapera\grabframe.cpp(384): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\isaac\documents\visual studio 2015\projects\buildingsapera\buildingsapera\grabframe.cpp(302): warning C4715: 'Processing': not all control paths return a value
+  buildingSapera.vcxproj -> C:\Users\Isaac\Documents\Visual Studio 2015\Projects\buildingSapera\x64\Debug\buildingSapera.exe
+  buildingSapera.vcxproj -> C:\Users\Isaac\Documents\Visual Studio 2015\Projects\buildingSapera\x64\Debug\buildingSapera.pdb (Full PDB)
