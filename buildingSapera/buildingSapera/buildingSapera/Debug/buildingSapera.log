@@ -1,0 +1,7 @@
+﻿  grabFrame.cpp
+c:\users\isaac\documents\visual studio 2015\projects\buildingsapera\buildingsapera\grabframe.cpp(91): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\isaac\documents\visual studio 2015\projects\buildingsapera\buildingsapera\grabframe.cpp(91): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  c:\users\isaac\documents\visual studio 2015\projects\buildingsapera\buildingsapera\grabframe.cpp(91): note: the missing variadic argument 1 is required by format string '%d'
+c:\users\isaac\documents\visual studio 2015\projects\buildingsapera\buildingsapera\grabframe.cpp(101): warning C4101: 'deviceModelName': unreferenced local variable
+SapClassBasic.lib(SapClassBasic82.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'X86'
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(638,5): error MSB6006: "link.exe" exited with code 1112.
